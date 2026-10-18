@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "957394205617",
+    "project_id": "hotel-room-booking-syste-e9a4f",
+    "storage_bucket": "hotel-room-booking-syste-e9a4f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957394205617:android:3f1d564d8dea9482021b90",
+        "android_client_info": {
+          "package_name": "com.example.hotel_room_booking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcFdEpF7Nj_1TyhoYj8qndo94ETVUYg7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
